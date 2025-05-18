@@ -80,6 +80,13 @@ npx react-native run-ios
 ```
 Make sure your emulator/device is connected and detected by adb devices (for Android).
 
+### ✅ Optional: Creating New Project (for fresh setup)
+If you're starting from scratch, you can initialize a new project with this command:
+```bash
+npx react-native@(your react-native version) init (your project name) --version (your react-native version)
+```
+Then follow steps above.
+
 ---
 ## 📝 Notes
 - This app is currently running in **debug mode**, not release. Expect possible performance issues and unoptimized builds.
