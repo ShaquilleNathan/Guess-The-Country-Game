@@ -85,7 +85,7 @@ If you're starting from scratch, you can initialize a new project with this comm
 ```bash
 npx react-native@(your react-native version) init (your project name) --version (your react-native version)
 ```
-Then follow steps above.
+Then follow steps 2-4 above.
 
 ---
 ## 📝 Notes
