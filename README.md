@@ -40,8 +40,8 @@ An experimental mobile game built with **React Native** and **Realm**, where use
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/guess-the-country.git
-cd guess-the-country
+git clone https://github.com/ShaquilleNathan/Guess-The-Country-Game.git
+cd your-project-name
 ```
 
 ### 2. Install React Native CLI (if not already installed)
